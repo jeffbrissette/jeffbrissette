@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning how to use the Fullbay App and Sourcecode.
+
 <!--
 **jeffbrissette/jeffbrissette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
