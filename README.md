@@ -1,6 +1,7 @@
-### Hi there 👋
+### Greetings 👋
 
-- 🌱 I’m currently learning how to use the Fullbay App and Sourcecode.
+- 🌱 I’m currently learning how to VueJs
+- ⚡ Ineteresting fact: I have breached a door using a shotgun. 
 
 <!--
 **jeffbrissette/jeffbrissette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
