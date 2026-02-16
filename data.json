@@ -11,6 +11,30 @@
 	"id" : 2,
 	"owner" : "Fred Jones"
   },
+	  {
+	"name" : "https://example.org/#public",
+	"url"  : "https://example.org/#public",
+	"id" : 4,
+	"owner" : "Fred Jones"
+  },
+	  {
+	"name" : "https://example.net/",
+	"url"  : "https://example.net/",
+	"id" : 5,
+	"owner" : "Fred Jones"
+  },
+	  {
+	"name" : "https://coordinated.example.com/scientific",
+	"url"  : "https://coordinated.example.com/scientific",
+	"id" : 6,
+	"owner" : "Fred Jones"
+  },
+	  {
+	"name" : "http://example.org/sleep",
+	"url"  : "http://example.org/sleep",
+	"id" : 7,
+	"owner" : "Fred Jones"
+  },
   {
 	"name" : "TEST 3",
 	"url"  : "http://www.gmail.com",
