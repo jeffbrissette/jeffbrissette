@@ -1,19 +1,19 @@
 [
   {
 	"name" : "TEST",
-	"url"  : "http://www.google.com",
+	"url"  : "http://www.sdf.org",
 	"id" : 1,
 	"owner" : "Fred Jones"
   },
   {
 	"name" : "TEST 2",
-	"url"  : "http://www.google.com",
+	"url"  : "http://www.bluesunconsulting.com",
 	"id" : 2,
 	"owner" : "Fred Jones"
   },
   {
 	"name" : "TEST 3",
-	"url"  : "http://www.google.com",
+	"url"  : "http://www.gmail.com",
 	"id" : 3,
 	"owner" : "Fred Jones"
   }
