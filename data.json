@@ -1,4 +1,9 @@
 [
+  "name" : "Traveller Webring",
+  "Owner" : "Jeff Brissette",
+  "contact" : "kd7jny@gmail.com",
+  "description" : "This is a test for a webring",
+  "sites" : [
   {
     "name": "TEST",
     "url": "http://www.sdf.org",
@@ -94,4 +99,5 @@
     "url": "https://www.example.com/electric/psychedelic.html",
     "owner": "Fred Jones"
   }
+  ]
 ]
